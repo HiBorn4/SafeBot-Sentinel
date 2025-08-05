@@ -1,4 +1,4 @@
-# Person Detection with YOLOv8
+# Person Detection with YOLOv11
 
 This repository contains a deep learning model based on YOLOv8 for efficient detection and labeling of persons in video footage. The model leverages transfer learning and GPU acceleration to achieve high accuracy and fast processing times.
 
