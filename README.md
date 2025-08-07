@@ -11,10 +11,13 @@ This repository contains a deep learning model based on YOLOv8 for efficient det
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
+
 - [License](#license)
 
 ## Introduction
 Detecting and labeling persons in video footage is crucial for various applications such as surveillance, security, and analytics. Traditional methods can be slow and inaccurate. This project uses a state-of-the-art YOLOv8 model, enhanced with transfer learning, to accurately detect and label persons in video footage.
+
+<img width="1920" height="1080" alt="human" src="https://github.com/user-attachments/assets/bb134beb-5bfe-4661-9476-9249ac260d1b" />
 
 ## Features
 - Utilizes YOLOv8 for high-accuracy object detection.
@@ -103,6 +106,9 @@ print(results)
 Here is an example of the output video with detected and labeled persons:
 
 ![Annotated Person Detection](person_detection_demo.avi)
+
+https://github.com/user-attachments/assets/768e74ba-8140-48a1-8f38-7549294376b1
+
 
 ## Contributing
 We welcome contributions to improve this project. Please fork the repository and submit a pull request.
