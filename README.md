@@ -105,8 +105,6 @@ print(results)
 ## Results
 Here is an example of the output video with detected and labeled persons:
 
-![Annotated Person Detection](person_detection_demo.avi)
-
 https://github.com/user-attachments/assets/768e74ba-8140-48a1-8f38-7549294376b1
 
 
